@@ -1,4 +1,4 @@
-# 📑 Document Validator and Approval Gate (LangGraph + Ollama)
+# 📑 Multi-Agent-Workflow-Document-Validator-and-Approval-Gate
 
 This project builds a multi-agent system using [LangGraph](https://github.com/langgraph-ai/langgraph) and [Ollama](https://ollama.com) that can **analyze legal/business documents**, validate their structure and content based on custom rules, and automatically decide whether the document should be **approved or rejected**, along with a clear reason.
 
@@ -47,8 +47,8 @@ The system uses a **LangGraph agent workflow**:
 
 # Installation:
 # 1. Clone the repository
-git clone https://github.com/yourusername/document-validator-agent.git
-cd document-validator-agent
+git clone https://github.com/Nayan1442/-Multi-Agent-Workflow-Document-Validator-and-Approval-Gate-.git
+cd Multi-Agent-Workflow-Document-Validator-and-Approval-Gate
 
 # 2. Create a virtual environment
 python -m venv venv
