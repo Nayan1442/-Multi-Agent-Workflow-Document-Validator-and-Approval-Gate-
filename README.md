@@ -51,8 +51,8 @@ git clone https://github.com/Nayan1442/-Multi-Agent-Workflow-Document-Validator-
 cd Multi-Agent-Workflow-Document-Validator-and-Approval-Gate
 
 # 2. Create a virtual environment
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
+- python -m venv venv
+- source venv/bin/activate  # Windows: venv\Scripts\activate
 
 # 3. Install dependencies
 pip install -r requirements.txt
